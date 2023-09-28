@@ -1,0 +1,24 @@
+1. git init
+2. git add . в текущем каталоге
+3. git add "name"
+4. git status изменения ( локально)
+5. git commit -m
+6. git branch ветки
+7. git checkout переход на ветку
+8. git push отправить
+9. git pull выгрузить и объединить
+10. git diff отличия текущей и сохранненой ветки
+11. git merge объединить
+12. git reset HEAD^1 удалить последний коммит
+
+
+Команды
+
+'''
+Создание файла
+type nul > example.txt
+'''
+'''
+Запись в файл
+echo "text add" >>example.txt
+'''
