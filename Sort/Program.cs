@@ -1,5 +1,8 @@
 ﻿int[] arr = { 5, 7, 2, 5, 3, 8, 1, 6 };
 
+// int[] arr = new int[8];
+// var arr = new int[8];
+
 void PrintArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)

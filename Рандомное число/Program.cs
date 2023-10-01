@@ -24,3 +24,26 @@ int MaxDigit(int num)
     int maxDigit = number1>number2 ? number1 : number2;
     return maxDigit;
 }
+
+// int[] arr = new int[8];
+
+// void RandomArr(int[] arr)
+// {
+//     Random rnd = new Random();
+//     for(int i=0; i < arr.Length;i++)
+//     {
+//         arr[i] =  rnd.Next(2);
+//     }
+// }
+
+// void PrintArr(int[] arr)
+// {
+//     for(int i=0; i < arr.Length;i++)
+//     {
+//         Console.Write($"{arr[i]} ");
+//     }
+// }
+
+// RandomArr(arr);
+// PrintArr(arr);
+
