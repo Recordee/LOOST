@@ -76,3 +76,7 @@ int[] PosNegNumber( int[] arr)
 
 int[] SumPosNegElem = PosNegNumber(array);
 Console.WriteLine($"{SumPosNegElem[0]} / {SumPosNegElem[1]}");
+
+
+// Двумерный массив
+
